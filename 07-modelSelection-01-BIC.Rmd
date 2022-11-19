@@ -1,6 +1,6 @@
 ## Bayesian Information Criterion (BIC) {#sec:BIC}
 
-In inferential statistics, we compare model selections using $p$-values or adjusted $R^2$. Here we will take the Bayesian propectives. We are going to discuss the Bayesian model selections using the Bayesian information criterion, or BIC. BIC is one of the Bayesian criteria used for Bayesian model selection, and tends to be one of the most popular criteria. 
+In inferential statistics, we compare model selections using $p$-values or adjusted $R^2$. Here we will take the Bayesian perspective. We are going to discuss the Bayesian model selections using the Bayesian information criterion, or BIC. BIC is one of the Bayesian criteria used for Bayesian model selection, and tends to be one of the most popular criteria. 
 
 
 ### Definition of BIC
